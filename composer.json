@@ -1,0 +1,13 @@
+{
+    "name": "tellumophp/file-api",
+    "require": {
+        "slim/slim": "^3.4",
+        "j4mie/idiorm": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Danil Komarov",
+            "email": "komarov.danil89@gmail.com"
+        }
+    ]
+}
